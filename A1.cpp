@@ -3,7 +3,7 @@ using namespace std;
 #include<stack>
 #include<queue>
 #include<utility>
-
+// copy righted by pratik ratadiya!!
 class node
 {
 	node *right;
