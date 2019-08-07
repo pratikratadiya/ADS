@@ -56,8 +56,8 @@ int  main()
         cout<<"\n*****Department Students*****\n"; 
         cout<<"1) Add New Record\n"; 
         cout<<"2) Display All Records\n"; 
-        cout<<"3) Search Roll No.\n"; 
-        cout<<"4) Search Person Name\n"; 
+        cout<<"3) Search Person Name\n"; 
+        cout<<"4) Search Roll No\n"; 
         cout<<"5) Update Information\n"; 
         cout<<"6) Exit\n"; 
         cout<<"Choose your choice : "; 
